@@ -1,0 +1,4 @@
+# Run with pip install -r requirements.txt
+numpy~=2.1.1
+pygame~=2.6.0
+pandas~=2.2.2

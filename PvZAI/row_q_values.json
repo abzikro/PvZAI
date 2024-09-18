@@ -1,0 +1,403 @@
+{
+  "(0, 0, 0, 0)": {
+    "do_nothing": 19.999999999999986,
+    "('place_sunflower', 'SunFlower')": 39.99999999999997,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_attacker', 'Peashooter')": 6.14265,
+    "('place_attacker', 'SnowPea')": 5.1585,
+    "('place_bomber', 'CherryBomb')": 0.0
+  },
+  "(0, 1, 1, 0)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_defender', 'WallNut')": 24.5706,
+    "do_nothing": 19.995145011099368,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0
+  },
+  "(1, 1, 1, 0)": {
+    "do_nothing": 19.99999999999797,
+    "('place_defender', 'WallNut')": 59.9800206218081,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0
+  },
+  "(1, 1, 1, 1)": {
+    "do_nothing": 0.0,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0
+  },
+  "(0, 1, 0, 0)": {
+    "do_nothing": 19.999999999999986,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 49.99999999999885,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 9.5
+  },
+  "(1, 0, 1, 1)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "do_nothing": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0
+  },
+  "(1, 2, 0, 0)": {
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_sunflower', 'SunFlower')": -7.4581341716709995,
+    "('place_attacker', 'Peashooter')": 39.999999999937394,
+    "('place_attacker', 'SnowPea')": 10.84,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "do_nothing": 19.999999999999986
+  },
+  "(1, 2, 0, 1)": {
+    "('place_sunflower', 'SunFlower')": -2.71,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "do_nothing": 19.896924495853597,
+    "('place_attacker', 'SnowPea')": 5.5,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(0, 2, 0, 0)": {
+    "do_nothing": 19.999999999900247,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 39.99943536734455,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 10.84
+  },
+  "(0, 3, 0, 0)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 12.220469716722238,
+    "do_nothing": 19.999999999999986,
+    "('place_attacker', 'SnowPea')": 7.028385,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 59.20183232116253
+  },
+  "(1, 3, 0, 0)": {
+    "('place_attacker', 'Peashooter')": 14.1277539449544,
+    "('place_defender', 'WallNut')": 0.0,
+    "do_nothing": 19.999999999999986,
+    "('place_sunflower', 'SunFlower')": -8.905810108684877,
+    "('place_bomber', 'CherryBomb')": 59.99994527793264,
+    "('place_attacker', 'SnowPea')": 9.188692665
+  },
+  "(0, 0, 1, 0)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "do_nothing": 16.998107294060016
+  },
+  "(0, 3, 1, 0)": {
+    "do_nothing": 19.999995363461565,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_defender', 'WallNut')": 16.26,
+    "('place_bomber', 'CherryBomb')": 6.0,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(0, 2, 1, 0)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 6.775,
+    "('place_defender', 'WallNut')": 59.99999401236671,
+    "do_nothing": 19.999999996413383,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 4.75
+  },
+  "(1, 0, 0, 0)": {
+    "('place_defender', 'WallNut')": 0.0,
+    "do_nothing": 14.35140927038,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 1.5,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0
+  },
+  "(1, 0, 1, 0)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "do_nothing": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0
+  },
+  "(0, 2, 0, 1)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "do_nothing": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_defender', 'WallNut')": -2.0
+  },
+  "(0, 3, 0, 1)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "do_nothing": 19.98280991088566,
+    "('place_attacker', 'Peashooter')": 8.13,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_bomber', 'CherryBomb')": 6.0,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(0, 0, 0, 1)": {
+    "do_nothing": 0.0,
+    "('place_sunflower', 'SunFlower')": 4.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(0, 1, 0, 1)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "do_nothing": 19.999920265530424,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(1, 1, 0, 1)": {
+    "do_nothing": 19.992600230299296,
+    "('place_sunflower', 'SunFlower')": -3.439,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(1, 1, 0, 0)": {
+    "('place_sunflower', 'SunFlower')": -9.202335569231275,
+    "('place_attacker', 'Peashooter')": 49.999999557766465,
+    "do_nothing": 19.999999999999986,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 5.0,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(2, 1, 0, 0)": {
+    "('place_attacker', 'Peashooter')": 9.5,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "do_nothing": 19.85860699019698,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(1, 3, 1, 0)": {
+    "do_nothing": 19.999651461323797,
+    "('place_sunflower', 'SunFlower')": -8.332281830033342,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_bomber', 'CherryBomb')": 6.0,
+    "('place_defender', 'WallNut')": 59.9999999969611
+  },
+  "(2, 2, 0, 0)": {
+    "('place_sunflower', 'SunFlower')": -3.8,
+    "('place_attacker', 'Peashooter')": 7.6,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "do_nothing": 19.989849424278873,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(1, 2, 1, 0)": {
+    "('place_sunflower', 'SunFlower')": -6.8618940391,
+    "('place_attacker', 'Peashooter')": 2.5,
+    "('place_attacker', 'SnowPea')": 2.5,
+    "('place_defender', 'WallNut')": 16.26,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "do_nothing": 19.999999999999986
+  },
+  "(2, 3, 0, 0)": {
+    "('place_sunflower', 'SunFlower')": -10.434062,
+    "('place_attacker', 'Peashooter')": 7.8255465,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 16.26,
+    "do_nothing": 19.993340207269366
+  },
+  "(1, 3, 1, 1)": {
+    "('place_sunflower', 'SunFlower')": -4.68559,
+    "do_nothing": 19.999999999999986,
+    "('place_attacker', 'Peashooter')": 7.8255465,
+    "('place_attacker', 'SnowPea')": 2.85,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(1, 2, 1, 1)": {
+    "do_nothing": 16.664563660066683,
+    "('place_sunflower', 'SunFlower')": -1.0,
+    "('place_attacker', 'Peashooter')": 39.61209050808499,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(2, 1, 0, 1)": {
+    "('place_defender', 'WallNut')": 0.0,
+    "do_nothing": 0.0,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0
+  },
+  "(2, 1, 1, 0)": {
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "do_nothing": 0.0,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(2, 2, 1, 0)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "do_nothing": 0.0
+  },
+  "(2, 0, 1, 0)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "do_nothing": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(1, 3, 0, 1)": {
+    "do_nothing": 19.999999999999986,
+    "('place_sunflower', 'SunFlower')": -7.712320754503899,
+    "('place_attacker', 'Peashooter')": 18.37738533,
+    "('place_defender', 'WallNut')": -2.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 5.7
+  },
+  "(2, 3, 0, 1)": {
+    "('place_sunflower', 'SunFlower')": -3.8,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "do_nothing": 16.664563660066683,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 6.0,
+    "('place_attacker', 'SnowPea')": 3.0
+  },
+  "(3, 3, 0, 0)": {
+    "('place_defender', 'WallNut')": 0.0,
+    "do_nothing": 0.0,
+    "('place_sunflower', 'SunFlower')": -3.0,
+    "('place_attacker', 'Peashooter')": 2.85,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(0, 1, 1, 1)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "do_nothing": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(2, 2, 0, 1)": {
+    "('place_attacker', 'Peashooter')": 0.0,
+    "do_nothing": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(0, 0, 1, 1)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "do_nothing": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(0, 2, 1, 1)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 7.6,
+    "do_nothing": 19.998628807735173,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(0, 3, 1, 1)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "do_nothing": 13.026431198000001,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0
+  },
+  "(3, 3, 0, 1)": {
+    "do_nothing": 2.0,
+    "('place_sunflower', 'SunFlower')": -3.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(4, 3, 0, 1)": {
+    "do_nothing": 2.0
+  },
+  "(4, 3, 0, 0)": {
+    "('place_attacker', 'Peashooter')": 1.5
+  },
+  "(3, 3, 1, 0)": {
+    "do_nothing": 3.8,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(2, 3, 1, 0)": {
+    "('place_sunflower', 'SunFlower')": -2.0,
+    "do_nothing": 11.390655800000001,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0
+  },
+  "(3, 2, 0, 0)": {
+    "('place_defender', 'WallNut')": 0.0,
+    "do_nothing": 0.0,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(2, 0, 0, 0)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "do_nothing": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0
+  },
+  "(1, 0, 0, 1)": {
+    "do_nothing": 0.0,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(2, 3, 1, 1)": {
+    "do_nothing": 3.8,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0
+  },
+  "(2, 2, 1, 1)": {
+    "do_nothing": 0.0,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0
+  },
+  "(3, 1, 0, 0)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "do_nothing": 0.0
+  },
+  "(2, 1, 1, 1)": {
+    "do_nothing": 0.0,
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "('place_defender', 'WallNut')": 0.0
+  },
+  "(2, 0, 1, 1)": {
+    "('place_sunflower', 'SunFlower')": 0.0,
+    "('place_attacker', 'Peashooter')": 0.0,
+    "('place_attacker', 'SnowPea')": 0.0,
+    "do_nothing": 0.0,
+    "('place_defender', 'WallNut')": 0.0,
+    "('place_bomber', 'CherryBomb')": 0.0
+  }
+}
